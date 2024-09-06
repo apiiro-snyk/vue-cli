@@ -22,8 +22,8 @@
   "dependencies": {
     "@achrinza/node-ipc": "^9.2.5",
     "chalk": "^4.1.2",
-    "execa": "^1.0.0",
-    "joi": "^17.4.0",
+    "execa": "^2.1.0",
+    "joi": "^17.7.1",
     "launch-editor": "^2.2.1",
     "lru-cache": "^6.0.0",
     "node-fetch": "^2.6.7",
